@@ -10,3 +10,8 @@ The repository currently contains
   * Rejection Sampling
   * Metropolis Hastings Algorithm
   * Gibbs Sampling
+* Other Sampling Methods
+  * Inverse Transform Sampling
+    * Cauchy Distribution
+    * Exponential Distribution
+    * Gumbel Distribution
