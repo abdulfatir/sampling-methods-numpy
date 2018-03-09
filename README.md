@@ -8,3 +8,5 @@ The repository currently contains
 * Monte Carlo Methods [[Video](https://www.youtube.com/watch?v=sN_0iGWcyLI)]
   * Importance Sampling
   * Rejection Sampling
+  * Metropolis Hastings Algorithm
+  * Gibbs Sampling
