@@ -6,8 +6,7 @@ The following methods are implemented with examples
 
 * Importance Sampling (Univariate example)
 * Rejection Sampling (Univariate example)
-* Metropolis-Hastings (Univariate example)
-* Metropolis-Hastings (Multivariate example)
+* Metropolis-Hastings (Univariate and Multivariate example)
 * Gibbs Sampling (Multivariate example)
 * Inverse Transform Sampling
   * Cauchy Distribution
