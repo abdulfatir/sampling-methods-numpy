@@ -9,8 +9,8 @@ The following methods are implemented with examples
 * Metropolis-Hastings (Univariate and Multivariate example)
 * Gibbs Sampling (Multivariate example)
 * Langevin Monte Carlo
-  * Unadjusted Langevin Algorithm (ULA)
-  * Metropolis-adjusted Langevin Algorithm (MALA)
+  * Unadjusted Langevin Algorithm (ULA) - Pytorch
+  * Metropolis-adjusted Langevin Algorithm (MALA) - Pytorch
 * Inverse Transform Sampling
   * Cauchy Distribution
   * Exponential Distribution
